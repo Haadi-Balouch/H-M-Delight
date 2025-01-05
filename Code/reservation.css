@@ -34,7 +34,7 @@ body{
     color: #c0a159;
 }
 #navBar{
-    width: 700px;
+    width: 70%;
     height: 40px;
     margin-left: auto;
     margin-right: auto;
@@ -160,7 +160,7 @@ body{
     margin-bottom: -17px;
 }
 #navBar_bottom{
-    width: 700px;
+    width: 70%;
     height: 60px;
     margin-left: auto;
     margin-right: auto;

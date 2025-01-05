@@ -34,7 +34,7 @@ body{
     color: #c0a159;
 }
 #navBar{
-    width: 700px;
+    width: 70%;
     height: 40px;
     margin-left: auto;
     margin-right: auto;
@@ -73,31 +73,23 @@ body{
     background-color: #c0a159;
     color: #004332;
 }
-#videoContainer{
+#videoContainer, #img, .article{
     width: 100%;
     height: 700px;
 }
-#img{
-    width: 100%;
-    height: 700px;
-}
-.article{
-    width: 100%;
-    height: 700px;
-}
-#dinning #imageContainer1{
-    width: 950px;
+#imageContainer1{
+    width: 65%;
     height: 700px;
     float: left;
 }
-#dinning #imageContainer1 #img1{
-    width: 950px;
+#dinning #img1{
+    width: 100%;
     height: 700px;
 }
 #info1{
     background-color: #004332;
     color: #c0a159;
-    width: 490px;
+    width: 35%;
     height: 700px;
     float: right;
 }
@@ -135,19 +127,19 @@ body{
     border-color: #c0a159;
     border: 1.5px solid;
 }
-#menu #imageContainer2{
-    width: 950px;
+#imageContainer2{
+    width: 65%;
     height: 700px;
     float: right;
 }
 #menu #imageContainer2 #img2{
-    width: 950px;
+    width: 100%;
     height: 700px;
 }
 #info2{
     background-color: #321717;
     color: #c0a159;
-    width: 490px;
+    width: 35%;
     height: 700px;
     float: left;
 }
@@ -169,19 +161,19 @@ body{
     background-color: #c0a159;
     color: #321717;
 }
-#private_dinning #imageContainer3{
-    width: 950px;
+#imageContainer3{
+    width: 65%;
     height: 700px;
     float: left;
 }
 #private_dinning #imageContainer3 #img3{
-    width: 950px;
+    width: 100%;
     height: 700px;
 }
 #info3{
     background-color: #004332;
     color: #c0a159;
-    width: 490px;
+    width: 35%;
     height: 700px;
     float: right;
 }
@@ -216,7 +208,7 @@ body{
     display: flex;
 }
 .picLine div{
-    width: 288px;
+    width: 20%;
     height: 288px;
     display: flex;
     justify-content: center;
@@ -239,7 +231,7 @@ body{
     margin-bottom: -17px;
 }
 #navBar_bottom{
-    width: 700px;
+    width: 70%;
     height: 60px;
     margin-left: auto;
     margin-right: auto;
